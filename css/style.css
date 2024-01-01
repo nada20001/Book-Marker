@@ -1,0 +1,20 @@
+#bookmarker {
+  height: 100vh;
+}
+#bookmarker h1 {
+  color: #777;
+  margin-bottom: 1rem;
+}
+#bookmarker .box {
+  padding: 20px;
+  background-image: linear-gradient(#eee, #fff);
+}
+
+#bookmarker .bookmarkForm {
+  padding: 20px;
+}
+
+#bookmarker a {
+  text-decoration: none;
+  color: black;
+}
